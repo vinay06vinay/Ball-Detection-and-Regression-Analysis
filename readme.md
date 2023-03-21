@@ -1,5 +1,6 @@
 
-
+## Introduction : 
+A Trajectory of the ball is detected from a video by Image processing of each frame in the video using OpenCV. The Second Task is performing regression analysis on Point Cloud 3D Data using regression methods such as Least Squares, Total Least Squares, RANSAC.
 ## Instructions for Problem-1.py : 
 1. After unzipping the file, please open Problem-1.py file using VSCode or any Python IDE such as Spyder. 
 2. Before running the file please make sure the "ball.mov" file is in the same folder as this script.

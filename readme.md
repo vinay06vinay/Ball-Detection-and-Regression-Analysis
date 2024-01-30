@@ -22,7 +22,7 @@ To execute the code related follow the instructions below:
 2. Before running the file please make sure the "ball.mov" file from data folder is in the same folder as this script.
 3. Install necessary libraries such as opencv, numpy, matplotlib if unavailable on the system and run the program
 
-### Overview and Results of Ball Trajectory Detection:
+### Overview and Results of Estimation Algorithms:
 
 Using the noisy point cloud data present in the csv files, three different estimation algorithms like Standard Least Squares, Total Least Squares and RANSAC are used to fit a surface. The results of which are as below
 
